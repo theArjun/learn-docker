@@ -10,3 +10,8 @@ docker run hello-world
 docker ps -a
 ```
 - Displays the containing Docker images.
+
+```shell
+docker ps
+```
+- Displays the containing Docker images(only running).
